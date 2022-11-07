@@ -1,0 +1,1 @@
+print("Bugün ilk gün")
