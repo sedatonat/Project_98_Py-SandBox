@@ -1,1 +1,2 @@
-print("Bugün ilk gün--")
+print("Bugün ilk gün")
+print("Bugün ikinci gün")
