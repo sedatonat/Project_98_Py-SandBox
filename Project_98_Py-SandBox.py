@@ -1,1 +1,1 @@
-print("Bugün ilk gün")
+print("Yes we are starting...")
